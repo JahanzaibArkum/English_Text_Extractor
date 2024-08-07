@@ -96,9 +96,6 @@ if __name__ == "__main__":
     main()
 
 """
-
-
-!streamlit run streamlit_app.py
      
 
 
