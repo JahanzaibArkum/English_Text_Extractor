@@ -94,11 +94,11 @@ def handle_exit(license_plate):
 
 if __name__ == "__main__":
     main()
+
 """
 
-with open("app.py", "w") as file:
-    file.write(code)
 
+!streamlit run streamlit_app.py
      
 
 
