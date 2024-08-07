@@ -96,7 +96,7 @@ if __name__ == "__main__":
 
 with open("app.py", "w") as file:
     file.write(code)
-
+!streamlit run app.py
      
 
 
