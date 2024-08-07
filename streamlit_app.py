@@ -1,5 +1,4 @@
-pip install easyocr
-pip install streamlit
+
 
 
 code = """
