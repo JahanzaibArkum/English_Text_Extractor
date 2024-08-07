@@ -2,6 +2,8 @@
 
 
 code = """
+pip install streamlit
+pip install easyocr
 import streamlit as st
 import easyocr
 import cv2
