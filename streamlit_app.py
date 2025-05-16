@@ -1,9 +1,7 @@
 
 
 
-code = """
-pip install streamlit
-pip install easyocr
+
 import streamlit as st
 import easyocr
 import cv2
@@ -95,7 +93,7 @@ def handle_exit(license_plate):
 if __name__ == "__main__":
     main()
 
-"""
+
      
 
 
