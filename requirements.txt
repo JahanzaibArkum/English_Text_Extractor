@@ -3,4 +3,5 @@ paddleocr
 Pillow
 numpy
 paddlepaddle
+setuptools
 
