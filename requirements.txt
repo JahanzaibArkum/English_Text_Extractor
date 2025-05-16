@@ -4,4 +4,5 @@ Pillow
 numpy
 paddlepaddle
 setuptools
+opencv-python
 
